@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1F864D10-1D01-448D-8C42-14F0C1A2FC3B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFF3D8E2-6AB3-49FF-AE28-39CD6D8114F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI_Ftm/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EFF3D8E2-6AB3-49FF-AE28-39CD6D8114F1 - 5ae8865c2176e455"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.lblResult.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "EFF3D8E2-6AB3-49FF-AE28-39CD6D8114F1 - 35a83cc5cd91ed9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.lblResult.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "EFF3D8E2-6AB3-49FF-AE28-39CD6D8114F1 - baa601fb04fd701a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.lblResult.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "EFF3D8E2-6AB3-49FF-AE28-39CD6D8114F1 - eae93144b9327454"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.lblResult.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "EFF3D8E2-6AB3-49FF-AE28-39CD6D8114F1 - ee40666a13b394bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_Ftm.ViewController"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "EFF3D8E2-6AB3-49FF-AE28-39CD6D8114F1 - e0e6bb898d15892b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_Ftm.ViewController&gt;"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "541">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "453FA427-60F5-48A6-B843-15C3AAA6777C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI_Ftm/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "453FA427-60F5-48A6-B843-15C3AAA6777C - f846c235ca26a758"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.textFieldWeight.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "453FA427-60F5-48A6-B843-15C3AAA6777C - 72062e567562736c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.textFieldWeight.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "453FA427-60F5-48A6-B843-15C3AAA6777C - 90e8114d83f8b86f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.textFieldWeight.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "453FA427-60F5-48A6-B843-15C3AAA6777C - 51e9ea6d07fe0d3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.textFieldWeight.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "453FA427-60F5-48A6-B843-15C3AAA6777C - ee40666a13b39b7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_Ftm.ViewController"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "485">
+               </Location>
+               <Location
+                  uuid = "453FA427-60F5-48A6-B843-15C3AAA6777C - e0e6bb898d1586e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Ftm.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_Ftm.ViewController&gt;"
+                  moduleName = "BMI_Ftm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/english/Downloads/BMI_Ftm%202/BMI_Ftm/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "426">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
